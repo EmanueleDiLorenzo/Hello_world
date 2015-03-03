@@ -1,2 +1,2 @@
 # Hello_world
-Firts project
+First project
